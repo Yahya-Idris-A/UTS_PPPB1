@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SEWA_HOTEL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_picker">datePicker</string>
+    <string name="sign_in_tittle">Sign In</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Type your username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Type your password</string>
+    <string name="login_button_text">LogIn</string>
+    <string name="checkiinout_title">Choose the check-in and check-out date:</string>
+    <string name="check_in_date_button_text">Check-in Date</string>
+    <string name="check_out_date_button_text">Check-out Date</string>
+    <string name="number_of_rooms_title">Number of rooms:</string>
+    <string name="search_button_text">Search</string>
+    <string name="find_hotel_title">Cari Hotel</string>
+    <string name="hotel_details_title">Deskripsi Hotel</string>
+    <string name="nama_hotel">Nama Hotel</string>
+    <string name="deskripsi_hotel">Deskripsi Hotel:</string>
+    <string name="fasilitas_hotel">Fasilitas Hotel:</string>
+    <string name="harga_hotel">Harga Hotel:</string>
+    <string name="search_hotel_title">Cari Hotel</string>
+    <string-array name="labels_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
